@@ -1,0 +1,36 @@
+commit d1ca3340373aef5bd35708f6c68f036d7e655729
+Merge: c367191 ff20518
+Author: atwillmore <atwillmore@ucdavis.edu>
+Date:   Thu Apr 5 14:43:20 2018 -0700
+
+    Merge branch 'master' of https://github.com/edumas97/BIS180L_git
+
+commit c36719169d120ab7a40c28972ffcc516364678f2
+Author: atwillmore <atwillmore@ucdavis.edu>
+Date:   Thu Apr 5 14:40:30 2018 -0700
+
+    I made a change
+
+commit ff20518a688e280a5f1ee945ff1bbc3dacaf5ecf
+Author: edumas97 <38116573+edumas97@users.noreply.github.com>
+Date:   Thu Apr 5 14:37:12 2018 -0700
+
+    Delete weekend.txt
+
+commit dbc8c478dd929fad23d37135351abd90c0d383c3
+Author: edumas97 <emdumas@ucdavis.edu>
+Date:   Thu Apr 5 14:34:07 2018 -0700
+
+    Changed name of weekend.txt to weekend_evan.txt
+
+commit 9be46f7830ecc161dd7cabbdf75dd3715f60fc16
+Author: edumas97 <emdumas@ucdavis.edu>
+Date:   Thu Apr 5 14:29:40 2018 -0700
+
+    Added weekend.txt
+
+commit 9c89c9bf5aa13d6428bf518ca32b4c460ad372fb
+Author: edumas97 <emdumas@ucdavis.edu>
+Date:   Thu Apr 5 14:23:58 2018 -0700
+
+    Added README.md
